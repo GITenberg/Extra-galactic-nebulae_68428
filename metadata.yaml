@@ -1,0 +1,26 @@
+_repo: Extra-galactic-nebulae_68428
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hubble, Edwin
+    gutenberg_agent_id: '54776'
+    url: http://www.gutenberg.org/2009/agents/54776
+description: ''
+gutenberg_issued: '2022-06-30'
+identifiers:
+  gutenberg: '68428'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.b3805680
+pgterms:marc905: 20220624172413hubble
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Anonymous (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: United States :The University of Chicago Press,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Extra-galactic nebulae
+url: http://www.gutenberg.org/ebooks/68428
